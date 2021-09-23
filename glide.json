@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "column",
+    "name": "Dictaphone",
+    "description": "Dictaphone",
+    "author": "Manu.n",
+    "params": [
+      {
+        "name": "title",
+        "displayName": "Title",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
